@@ -20,7 +20,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/public-1](https://github.com/nice-org-two/public-1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|1<br/>Contributors|11/07/23 <br/>Report generated|06/28/22<br/>Last commit date|
+|7<br/>Tools used|1<br/>Contributors|11/08/23 <br/>Report generated|06/28/22<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -78,9 +78,9 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[glob](https://github.com/isaacs/node-glob)|v8.0.1|N/A|N/A |ISC|N/A|
-|[normalize-package-data](https://github.com/npm/normalize-package-data)|v4.0.0|N/A|N/A |BSD-2-Clause|N/A|
-|[tap](http://www.node-tap.org/)|v16.0.1|N/A|N/A |ISC|N/A|
+|[glob](https://www.npmjs.com/glob)|v8.0.1|N/A|N/A |ISC|N/A|
+|[normalize-package-data](https://www.npmjs.com/normalize-package-data)|v4.0.0|N/A|N/A |BSD-2-Clause|N/A|
+|[tap](https://www.npmjs.com/tap)|v16.0.1|N/A|N/A |ISC|N/A|
 
 <br/>
 <div align='center'>
