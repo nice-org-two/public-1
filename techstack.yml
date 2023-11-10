@@ -1,7 +1,7 @@
 repo_name: nice-org-two/public-1
-report_id: 28c9a933ad3cd9519d7be405e943635c
+report_id: 943dc3ba54dbfe7ab22cad5acbd3fc70
 repo_type: Public
-timestamp: '2023-11-08T20:16:59+00:00'
+timestamp: '2023-11-10T16:27:20+00:00'
 requested_by: bob-wise0
 provider: github
 branch: main
@@ -17,6 +17,8 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
   detection_source: package.json
+  last_updated_by: bob-wise0
+  last_updated_on: 2022-06-17 10:47:19.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -35,12 +37,16 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: package.json
+  last_updated_by: bob-wise0
+  last_updated_on: 2022-06-17 10:41:51.000000000 Z
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: package.json
+  last_updated_by: bob-wise0
+  last_updated_on: 2022-06-17 10:41:51.000000000 Z
 - name: glob
   description: A little globber
   package_url: https://www.npmjs.com/glob
@@ -53,6 +59,8 @@ tools:
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: bob-wise0
+  last_updated_on: 2022-06-28 17:07:07.000000000 Z
 - name: normalize-package-data
   description: Normalizes data that can be found in package.json files
   package_url: https://www.npmjs.com/normalize-package-data
@@ -65,6 +73,8 @@ tools:
   image_url: https://img.stackshare.io/package/18641/default_47cf9c81f50087b8f8785ca33f1ee4b3b136eb76.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: bob-wise0
+  last_updated_on: 2022-06-17 10:47:19.000000000 Z
 - name: tap
   description: A Test-Anything-Protocol library for JavaScript
   package_url: https://www.npmjs.com/tap
@@ -77,3 +87,5 @@ tools:
   image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: bob-wise0
+  last_updated_on: 2022-06-17 10:41:51.000000000 Z
